@@ -1,0 +1,13 @@
+.DS_Store
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+*.swp
+*(busy)
+*.cpgz
+.ipynb_checkpoints
