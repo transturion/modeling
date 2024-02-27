@@ -11,3 +11,6 @@
 *(busy)
 *.cpgz
 .ipynb_checkpoints
+Pickled/
+*.pkl
+Patches_Serum_Estradiol_Sharable_12Feb24_Annie.csv
